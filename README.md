@@ -8,11 +8,11 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 Habilidades com os seguintes sistemas operacionais:
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white>
-<img align="center" alt="Rafa-Js" height="30" width="40" https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white>
-<img align="center" alt="Rafa-Js" height="30" width="40" https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black>
-<img align="center" alt="Rafa-Js" height="30" width="40" https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white>
-<img align="center" alt="Rafa-Js" height="30" width="40" https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white>
-<img align="center" alt="Rafa-Js" height="30" width="40" https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white>
+<img align="center" height="30" width="40" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img align="center" height="30" width="40" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+<img align="center" height="30" width="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="center" height="30" width="40" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+<img align="center" height="30" width="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img align="center" height="30" width="40" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
