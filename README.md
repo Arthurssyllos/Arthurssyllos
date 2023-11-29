@@ -4,7 +4,9 @@
 
 https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 ##
+
 Skills in following languages:
 <div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -15,7 +17,9 @@ Skills in following languages:
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
+
 ##
+
 Skills with the following operating systems:
 <div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
