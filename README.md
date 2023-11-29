@@ -2,8 +2,6 @@
 
 ## My name is Arthur Syllos, a programmer focused on data analysis, AI and fullstack. Transforming various difficulties into achievements! I'm curious about learning new techniques and excited about the most diverse challenges. Creating innovative solutions, thinking about accessibility, inclusion and ecology.
 
-##
-
 Knowledge of the following code implementation platforms:
 <div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
